@@ -1,0 +1,24 @@
+img{
+  width:100%;
+  height:auto;
+}
+
+*{
+  padding:0px;
+  margin:0px;
+  box-sizing:border-box;
+}
+
+.forest-container{
+  width:60%;
+  margin:auto;
+  border:5px solid black;
+  overflow: hidden;
+
+}
+
+.forest-slide{
+  display:flex;
+  width:100%;
+  height:300px;
+}
